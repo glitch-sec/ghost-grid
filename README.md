@@ -17,20 +17,6 @@ Each module is independently deployable and communicates via a message bus with 
 
 ---
 
-## Architecture
-
-[SpeechOps] ──> [JARVIS Core] ──> [All Modules] ──> [VoiceResponse]
-│
-├──> [AdminOps] ───> [Monitoring] ──> [IR AI]
-│ └──> [Blue Team AI]
-├──> [Network AI] ──> [Compliance AI]
-├──> [OSINT AI] ─────┐
-│ └──> [Blue Team AI]
-└──> [GhostSim] ─────> [Network AI, ZeroGenesis]
-
-
----
-
 ## Core Repositories
 
 | Repository                     | Purpose                               |
