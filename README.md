@@ -21,8 +21,8 @@ Each module is independently deployable and communicates via a message bus with 
 
 | Repository                     | Purpose                               |
 |--------------------------------|---------------------------------------|
-| [`jarvis-core`](https://github.com/glitch-sec/arx-core)         | Orchestration engine and dispatcher |
-| [`ghostgrid-modules`](https://github.com/glitch-sec/ghostgrid-modules) | All modular AI agents              |
+| [`arx-core`](https://github.com/glitch-sec/arx-core)         | Orchestration engine and dispatcher |
+| [`arx-modules`](https://github.com/glitch-sec/arx-modules) | All modular AI agents              |
 | [`ghostgrid-docs`](https://github.com/glitch-sec/ghostgrid-docs)       | Versioned ecosystem documentation  |
 | [`ghostgrid-devops`](https://github.com/glitch-sec/ghostgrid-devops)   | Terraform, Ansible, GitOps IaC     |
 | [`ghostgrid-infra`](https://github.com/glitch-sec/ghostgrid-infra)     | Hardware, network, and rack plans  |
